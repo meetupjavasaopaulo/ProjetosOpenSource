@@ -6,7 +6,7 @@ Projetos open source em Java para usar e contribuir
 
 |   Categoria	| Nome   	| Link oficial  	|   Link para devs	| Brasileiros no projeto  	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
-| DevOps	|  Jenkins  	| [para usuários](https://www.jenkins.com)  	|  [para desenvolvedores](https://jenkins.io/doc/developer/)  	|  [@boaglio](https://github.com/boaglio) [@kinow](https://github.com/kinow) | 
+| DevOps	|  Jenkins  	| [para usuários](https://jenkins.io)  	|  [para desenvolvedores](https://jenkins.io/doc/developer/)  	|  [@boaglio](https://github.com/boaglio) [@kinow](https://github.com/kinow) | 
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 
