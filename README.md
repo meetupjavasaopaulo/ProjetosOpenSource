@@ -4,6 +4,7 @@
 # Projetos Open Source em Java
 Projetos open source em Java para usar e contribuir
 
+
 |   Categoria	| Nome   	| Link oficial  	|   Link para devs	| Brasileiros no projeto  	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
 | DevOps	|  Jenkins  	| [para usuários](https://jenkins.io)  	|  [para desenvolvedores](https://jenkins.io/doc/developer/)  	|  [@boaglio](https://github.com/boaglio) [@kinow](https://github.com/kinow) | 
@@ -14,6 +15,7 @@ Projetos open source em Java para usar e contribuir
 | Bibliotecas | tap4j | [para usuários](https://tupilabs.github.io/tap4j) | [para desenvolvedores](https://github.com/tupilabs/tap4j/) | [@kinow](https://github.com/kinow) |
 | Bibliotecas | testlink-java-api | [para usuários](http://kinow.github.io/testlink-java-api/) | [para desenvolvedores](https://github.com/kinow/testlink-java-api) | [@kinow](https://github.com/kinow) |
 | Variados | github.com/globocom | [para usuários](https://opensource.globo.com) | [para desenvolvedores](https://github.com/globocom?language=java) | [70+](https://github.com/orgs/globocom/people) |
+| Java | CLI SpringBoot Scaffold| [para usuários](https://github.com/NetoDevel/cli-spring-boot-scaffold) | [para desenvolvedores](https://github.com/NetoDevel/cli-spring-boot-scaffold) | [@NetoDevel](https://github.com/NetoDevel) |
 
 ## Tem um projeto para adicionar aqui? 
 ## Mande sua Pull Request! 
