@@ -17,6 +17,8 @@ Projetos open source em Java para usar e contribuir
 | Variados | github.com/globocom | [para usuários](https://opensource.globo.com) | [para desenvolvedores](https://github.com/globocom?language=java) | [70+](https://github.com/orgs/globocom/people) |
 | Testes | Fixture Factory | [para usuários](https://github.com/six2six) | [para desenvolvedores](https://github.com/six2six/fixture-factory) | [5](https://github.com/orgs/six2six/people) |
 | Ferramenta | CLI SpringBoot Scaffold| [para usuários](https://github.com/NetoDevel/cli-spring-boot-scaffold) | [para desenvolvedores](https://github.com/NetoDevel/cli-spring-boot-scaffold) | [@NetoDevel](https://github.com/NetoDevel) |
+| Bibliotecas | SpringBoot Azure ServiceBus Mock | [para usuários](https://github.com/NetoDevel/spring-boot-service-bus-mock) | [para desenvolvedores](https://github.com/NetoDevel/spring-boot-service-bus-mock) | [@NetoDevel](https://github.com/NetoDevel) |
+
 
 ## Tem um projeto para adicionar aqui? 
 ## Mande sua Pull Request! 
